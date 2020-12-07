@@ -2,6 +2,8 @@
 
 #### CSS Animation
 
+https://marcella-ol.github.io/star-wars-scrolling-text/
+
 Realizada com o tutorial: https://www.youtube.com/watch?v=kHrV2ZHzF-0
 
 Alterações feitas: background estrelado e música tema.
