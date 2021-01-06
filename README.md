@@ -1,6 +1,6 @@
 # Star Wars Scrolling Text :sparkles:
 
-https://marcella-ol.github.io/star-wars-scrolling-text/
+:octocat: https://marcella-ol.github.io/star-wars-scrolling-text/
 
 #### CSS Animation
 
